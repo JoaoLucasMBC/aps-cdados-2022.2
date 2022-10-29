@@ -18,4 +18,10 @@ Para a entrega da APS3, o texto havia ficado muito grande, então foi diminuido 
 2. Cálculos e Modelos
 3. Informações extras
 4. Gráfico de distribuição dos países classificados nos blocos
-5. Atualizações de feedback da APS2
+5. Atualizações de feedback da APS2  
+  
+---
+  
+## APS2 corrigida com Feedback
+
+![imagem](APS2_corrigida.jpg)
