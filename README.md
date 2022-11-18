@@ -22,6 +22,6 @@ Para a entrega da APS3, o texto havia ficado muito grande, então foi diminuido 
   
 ---
   
-## APS2 corrigida com Feedback
+## Correções APS3
 
-![imagem](APS2_corrigida.jpg)
+Nenhuma correção foi pedida para a APS3
